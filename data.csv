@@ -1,0 +1,13 @@
+task,precedence,duration
+A,,30
+B,A,5
+C,,2
+D,C,3
+E,,7
+F,E,25
+G,,15
+H,G,10
+I,H,2
+J,I F D B,10
+K,,15
+L,J K,30
